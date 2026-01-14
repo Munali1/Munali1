@@ -43,12 +43,6 @@ MongoDB, MySQL, SQL Server, Auth0, Stripe, OpenAI SDK
 
 ---
 
-## 📊 GitHub Stats
-
-![Munali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munali1&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 **LinkedIn:** [Munali Shakya](https://www.linkedin.com/in/munali-shakya-665b0b253/)
