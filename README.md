@@ -6,7 +6,6 @@
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
 ![Temporal](https://img.shields.io/badge/Temporal-Workflows-green)
-![OpenAI](https://img.shields.io/badge/OpenAI-SDK-black)
 
 I’m a backend-focused Software Engineer with hands-on experience building **cloud-native, production-ready systems** using **C# and ASP.NET Core**. I enjoy designing scalable backend services, reliable background workflows, and modern cloud infrastructure.
 
